@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
         'images/works/ninjya_shippu_blade_top.png', // 作品画像2
         'images/works/the_zeroth_wonder_top.png',   // 作品画像3
         'images/works/delivery_spirits_top.png',    // 作品画像4
-        'images/works/astro_shooter_top.png',       // 作品画像5
     ];
     // --- 設定はここまで ---
 
