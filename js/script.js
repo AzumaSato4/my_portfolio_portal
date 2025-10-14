@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // ==================================================
     // --- 設定項目 ---
     const images = [
-        'images/works/Jewelryhunter0916.jpg',       // 作品画像1
-        'images/works/ninjya_shippu_blade_top.png', // 作品画像2
-        'images/works/the_zeroth_Wonder_top.png',   // 作品画像3
-        'images/works/delivery_spirits_top.png',    // 作品画像4
+        'images/works/jewelryhunter.jpg',       // 作品画像1
+        'images/works/battlecart.jpg', // 作品画像2
+        // 'images/works/the_zeroth_Wonder_top.png',   // 作品画像3
+        // 'images/works/delivery_spirits_top.png',    // 作品画像4
     ];
     // --- 設定はここまで ---
 
