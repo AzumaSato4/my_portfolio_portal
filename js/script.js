@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // ==================================================
     // --- 設定項目 ---
     const images = [
-        'images/works/jewelryhunter.jpg',       // 作品画像1
-        'images/works/battlecart.jpg', // 作品画像2
-        // 'images/works/the_zeroth_Wonder_top.png',   // 作品画像3
-        // 'images/works/delivery_spirits_top.png',    // 作品画像4
+        'images/works/aquagarden_aquarium3.png',
+        'images/works/robo_readme_1.png',
+        'images/works/battlecart.jpg',
+        'images/works/jewelryhunter.jpg',
     ];
     // --- 設定はここまで ---
 
