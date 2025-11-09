@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ==================================================
     // --- 設定項目 ---
     const images = [
+        'images/works/keepworking_playing.png',
         'images/works/aquagarden_aquarium3.jpg',
         'images/works/robo_readme_1.jpg',
         'images/works/battlecart.jpg',
